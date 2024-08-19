@@ -1,0 +1,44 @@
+{
+    "FirebaseConfig" : {
+        "dbConnInfo" : {
+            "apiKey" : "AIzaSyBiPFiDRpywm06KftPPDu0T7d1eowrHYEE",
+            "authDomain" : "hycop-example.firebaseapp.com",
+            "databaseURL" : "https://hycop-example-default-rtdb.firebaseio.com",
+            "projectId" : "hycop-example",
+            "storageBucket" : "hycop-example.appspot.com",
+            "messagingSenderId" : "724689601871",
+            "appId" : "1:724689601871:web:2cc3542344ad1feba1b13a"           
+        },
+        "storageConnInfo" : {
+            "apiKey" : "AIzaSyBiPFiDRpywm06KftPPDu0T7d1eowrHYEE",
+            "appId" : "1:724689601871:web:2cc3542344ad1feba1b13a",
+            "projectId" : "hycop-example",
+            "storageURL" : "hycop-example.appspot.com",
+            "messagingSenderId" : "724689601871"
+        },
+        "socketConnInfo" : {
+            "serverUrl" : "ws://127.0.0.1",
+            "serverPort" : "4432"
+        }
+    },
+    "AppwriteConfig" : {
+        "dbConnInfo" : {
+            "apiKey" : "de04f1ce3c8e69e091b74bb8ebf1321484eb1c5bd384aaaa9ca201027d0e1dec64de67ae328fab89bc1ca341f0262d8679cd715b89955fed64304063a70d215eb79c33f2a19d290071e1fdc9682a09bfc49f602490974117a7853af2baad0a1a546c9dff999c62964440bdb4ceb0dcba131d4668d0b43dcf4b9c08e3aea949e0",
+            "databaseURL" : "http://ec2-43-200-191-107.ap-northeast-2.compute.amazonaws.com:9090/v1",
+            "projectId" : "hycopTest",
+            "appId" : "hycopTestDB" 
+        },
+        "storageConnInfo" : {
+            "storageURL" : "http://ec2-43-200-191-107.ap-northeast-2.compute.amazonaws.com:9090/v1",
+            "projectId" : "hycopTest",
+            "apiKey" : "de04f1ce3c8e69e091b74bb8ebf1321484eb1c5bd384aaaa9ca201027d0e1dec64de67ae328fab89bc1ca341f0262d8679cd715b89955fed64304063a70d215eb79c33f2a19d290071e1fdc9682a09bfc49f602490974117a7853af2baad0a1a546c9dff999c62964440bdb4ceb0dcba131d4668d0b43dcf4b9c08e3aea949e0"
+        },
+        "socketConnInfo" : {
+            "serverUrl" : "ws://127.0.0.1",
+            "serverPort" : "4432"
+        }
+    },
+    "AssetConfig" : {
+        "savePeriod" : 1000
+    }
+}
